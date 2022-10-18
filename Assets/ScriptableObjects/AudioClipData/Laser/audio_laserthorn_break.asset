@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24c1c6e747fa0e94090e8bc59337a884, type: 3}
+  m_Name: audio_laserthorn_break
+  m_EditorClassIdentifier: 
+  _audioClips:
+  - {fileID: 8300000, guid: 674a228d5036b794c96e1c372b1463c4, type: 3}
+  - {fileID: 8300000, guid: 9b42fe9e16d1d57448fb185b85ad2e69, type: 3}
+  - {fileID: 8300000, guid: cc3dbfcb9dc946f4d8cbc885cda6254b, type: 3}
+  - {fileID: 8300000, guid: 2b89c596d0fe00043b9689f07826fc6b, type: 3}
+  _pitchBase: 1
+  _pitchVariation: 0.1

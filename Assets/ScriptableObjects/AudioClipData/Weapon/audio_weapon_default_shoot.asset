@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24c1c6e747fa0e94090e8bc59337a884, type: 3}
+  m_Name: audio_weapon_default_shoot
+  m_EditorClassIdentifier: 
+  _audioClips:
+  - {fileID: 8300000, guid: 9068298b5a835e943bffd244b53429f3, type: 3}
+  - {fileID: 8300000, guid: 8e85d87f4b6b4c34eaaa51da525918d6, type: 3}
+  - {fileID: 8300000, guid: 3d57ec4cf0d201647a9ce1471ece0d89, type: 3}
+  - {fileID: 8300000, guid: 317afabe9865a804195ccbe3d5687922, type: 3}
+  - {fileID: 8300000, guid: 8c61a523483dd9547adc1dd6c43ab803, type: 3}
+  _pitchBase: 1
+  _pitchVariation: 0.2

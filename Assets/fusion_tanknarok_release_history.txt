@@ -1,0 +1,110 @@
+# 1.0.0
+
+## Build 28 (Apr 04, 2022)
+
+**Changes**
+
+- Build settings for Android. Linear colorspace option requires OpenGL ES 3.0 or Vulcan (so the option Automatic Graphics API can't be used)
+- Company Name and added FUSION_WEAVER compile define
+
+**Bug Fixes**
+
+- Fixed: Fusion config which was turned into a one-liner in previous commit
+
+## Build 27 (Mar 18, 2022)
+
+**Changes**
+
+- Updated: To Fusion SDK 1.0.0, Build 439.
+
+**Bug Fixes**
+
+- Fixed: Fusion config which was turned into a one-liner in previous commit
+
+# 0.13.0
+
+## Build 26 (Feb 10, 2022)
+
+**Changes**
+
+- Updated: To Fusion SDK 0.13.0 RC Nightly Build 409.
+- Removed: PhotonAppSettings asset. This gets generated on import (if there isn't one already).
+- Changed: MaxPlayers defaults to 4 initially (stored in prefs).
+
+**What's New**
+
+- Added: Interpolation of predicted bullets.
+
+**Bug Fixes**
+
+- Fixed: OnPlayerJoined logic (was spawning on clients - didn't do anything but technically not correct)
+- Fixed: ItemBox pickup logic (no gamelogic in onchange handler)
+
+## Build 21 (Jan 12, 2022)
+
+- .gitignore file to sync with other demo projects
+
+## Build 18 (Dec 17, 2021)
+
+- Null check for Runner usage in a coroutine. Avoids issues when the player disconnects (esc)
+
+**Bug Fixes**
+
+- Fixed: Camera bounds (was trying to track previously destroyed tanks)
+- Fixed: Update SDK to #367
+- Fixed: Don't allow shooting during level transition
+- Fixed: Camera bounds
+
+# 0.7.1
+
+**Changes**
+
+- Updated to Fusion 319
+- Fix WorldOwner so it's not tied to playerId==0
+
+# 0.7.0
+
+## Build 6 (Sep 28, 2021)
+
+**Changes**
+
+- Tank prefab to destroy when Authority leaves (in Shared Mode)
+- OnAllPlayersReady() will close and hide the room/session
+
+**Removed**
+
+- Unuseb (but large) asset. Not referenced or used
+
+## Build 5 (Sep 14, 2021)
+
+**Changes**
+
+- Spacing of lines minimally
+
+**Removed**
+
+- Folders "Bin" and "bin" by adding them to .gitignore
+
+**Bug Fixes**
+
+- Fixed: Two MissingReferenceExceptions when exiting play mode
+
+## Build 4 (Sep 02, 2021)
+
+**What's New**
+
+- Supported platforms to Readme
+- Copyright and Email to readme
+
+**Changes**
+
+- Name of readme
+- File format for audio from mp3 to wav. Keeping .meta the same (just renamed)
+- Glitch effect no longer has the attribute ExecuteInEditMode
+
+## Build 3 (Aug 30, 2021)
+
+**What's New**
+
+- Readme
+

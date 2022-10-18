@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e93e988ca3be79a4ea6e647ed38e7a37, type: 3}
+  m_Name: Damage_02_Scratched
+  m_EditorClassIdentifier: 
+  _hullMesh: {fileID: -2451315575946790210, guid: b1584132887524842a73d6a32fddb647, type: 3}
+  _turretMesh: {fileID: 7317448387187697166, guid: b1584132887524842a73d6a32fddb647, type: 3}
+  _hitDebris: {fileID: 1348902072512610, guid: ca9feca023c948c41b442564c3225b23, type: 3}
+  _hitParticles: {fileID: 198275072906292740, guid: 7131708058cd04a44b58c44f6003b0d9, type: 3}
+  _drivingDust: {fileID: 198832938148638172, guid: f0fbb02d55cedbe4995a46f758a5ba86, type: 3}

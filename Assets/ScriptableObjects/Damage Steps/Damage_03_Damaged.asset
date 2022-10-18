@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e93e988ca3be79a4ea6e647ed38e7a37, type: 3}
+  m_Name: Damage_03_Damaged
+  m_EditorClassIdentifier: 
+  _hullMesh: {fileID: 3757514157320558501, guid: b1584132887524842a73d6a32fddb647, type: 3}
+  _turretMesh: {fileID: 6386710861214483553, guid: b1584132887524842a73d6a32fddb647, type: 3}
+  _hitDebris: {fileID: 1348902072512610, guid: ede4f2e66b8f29f48825ba2ddcc91145, type: 3}
+  _hitParticles: {fileID: 198863726494816202, guid: 2f551d1a223ea184386beb9d957625b2, type: 3}
+  _drivingDust: {fileID: 198587470682876228, guid: ce9f6c3e7c8dda742ae2b958a30ede4b, type: 3}

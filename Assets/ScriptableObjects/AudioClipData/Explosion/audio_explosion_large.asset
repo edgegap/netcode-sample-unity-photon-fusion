@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24c1c6e747fa0e94090e8bc59337a884, type: 3}
+  m_Name: audio_explosion_large
+  m_EditorClassIdentifier: 
+  _audioClips:
+  - {fileID: 8300000, guid: d1f33f12d8f2a184dbc35e5ac81b5a4f, type: 3}
+  - {fileID: 8300000, guid: 20e5cbe59154fbb4bafb6c52f2a21f4f, type: 3}
+  - {fileID: 8300000, guid: 7367720e81a58fe44889d4e77f015eb1, type: 3}
+  - {fileID: 8300000, guid: 4ff5bcd3107c52c488e0ce20f626127f, type: 3}
+  _pitchBase: 1
+  _pitchVariation: 0.2

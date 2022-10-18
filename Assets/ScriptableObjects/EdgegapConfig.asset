@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eec5a1f77fbb61a459e2b4840198588b, type: 3}
+  m_Name: EdgegapConfig
+  m_EditorClassIdentifier: 
+  AppName: TanknorakExample
+  Version: v5
+  ApiToken: token da90cb6b-8830-40da-a363-4f6c29b56169
+  ApiEndpoint: https://api.edgegap.com

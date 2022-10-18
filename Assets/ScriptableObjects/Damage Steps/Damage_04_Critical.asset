@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e93e988ca3be79a4ea6e647ed38e7a37, type: 3}
+  m_Name: Damage_04_Critical
+  m_EditorClassIdentifier: 
+  _hullMesh: {fileID: -3447801998121393225, guid: b1584132887524842a73d6a32fddb647, type: 3}
+  _turretMesh: {fileID: 6616762571958155918, guid: b1584132887524842a73d6a32fddb647, type: 3}
+  _hitDebris: {fileID: 1348902072512610, guid: ede4f2e66b8f29f48825ba2ddcc91145, type: 3}
+  _hitParticles: {fileID: 198777155442714280, guid: 1576827889c5f044282f9dc4d7d56b7c, type: 3}
+  _drivingDust: {fileID: 198795327171925028, guid: 098757359e9e6ab43af91557450b42e7, type: 3}
