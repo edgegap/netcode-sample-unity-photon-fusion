@@ -6,4 +6,4 @@ In this guide, we will be using the sample project [`Tanknarok` from Photon Fusi
 
 ## Tutorial
 
-You can see the [full documentation here](https://docs.edgegap.com/)
+You can see the [full documentation here](https://docs.edgegap.com/docs/sample-projects/photon-fusion-on-edgegap)
