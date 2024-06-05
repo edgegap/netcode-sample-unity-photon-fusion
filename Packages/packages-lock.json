@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.edgegap.unity-servers-plugin": {
-      "version": "https://github.com/edgegap/edgegap-unity-plugin.git#sample/photon-fusion-1",
+      "version": "https://github.com/edgegap/edgegap-unity-plugin.git#sample/unity-photon-fusion-1",
       "depth": 0,
       "source": "git",
       "dependencies": {
